@@ -5,7 +5,7 @@
 * VIsualize from data including `Total Goals` scored, Succesfull  `Assist`, Attempted `Passes` for both  in individual players or in collective club
 * Gain insight, pattern and interesting piece of findings from data visualization and giving my personal opinion in regards to that matter.
 
-## ## Project 2 Data Science Regression Modeling : California Housing Price Prediction Overview <br>
+## Project 2 Data Science Regression Modeling : California Housing Price Prediction Overview <br>
 * Build a machine learning regression model to estimate and predict housing price located in california region.
 * Engineered some feaures to better specify how many rooms, bedrooms per rooms, bedrooms per household and population per household.
 * Exploratory data with seaborn and matplotlib help giving better understanding of which specific area having the heighest or lowest house price and which are the most densely populated.
