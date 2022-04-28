@@ -33,3 +33,6 @@
 * Feature Engineered date feature to date time type for easier to converto data to to time series.
 * Data Exploration giving a better understanding which products sold the most, generates most profit and where the sales / pofit mostly comes from.
 * Auto ARIMA and FBProphet as tool to forecast sales and profit of the dataset.
+
+## Extras
+## [Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
