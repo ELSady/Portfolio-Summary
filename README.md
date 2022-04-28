@@ -1,4 +1,4 @@
-# Isnan Data Science Portfolio Summary
+# Data Science Portfolio Summary
 
 ## Poject 1 Data Visualization Project: Premier League 20/21 Exploratory Data Overview
 * Data Exploration of Premier League Season 2020 / 2021 Overall Stats and SUmmary
