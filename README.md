@@ -1,6 +1,6 @@
 # Data Science Portfolio Summary
 
-** [Poject 1 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-)
+## [Poject 1 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-)
 * Data Exploration of Premier League Season 2020 / 2021 Overall Stats and SUmmary
 * VIsualize from data including `Total Goals` scored, Succesfull  `Assist`, Attempted `Passes` for both  in individual players or in collective club
 * Gain insight, pattern and interesting piece of findings from data visualization and giving my personal opinion in regards to that matter.
