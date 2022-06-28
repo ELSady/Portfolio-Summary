@@ -1,7 +1,6 @@
 # My Data Science Portfolio Highlights
 
 ## [#1 Data Science Project Regression Modeling : California Housing Price Prediction Overview](https://github.com/ELSady/Regression-California-Housing-Price-Prediction/blob/main/README.md)
-## Data Science Project Regression Modeling : California Housing Price Prediction Overview <br>
 * Build a machine learning regression model to estimate and predict housing price located in california region.
 * Engineered some feaures to better specify how many rooms, bedrooms per rooms, bedrooms per household and population per household.
 * Features categorical encoding and Robust scaler are used to pre process dataaset before implemented it to machine learning model.
