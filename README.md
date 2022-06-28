@@ -1,4 +1,4 @@
-# Data Science Portfolio Summary
+# My Data Science Portfolio Highlights
 
 ## [#1 Data Science Project Regression Modeling : California Housing Price Prediction Overview](https://github.com/ELSady/Regression-California-Housing-Price-Prediction/blob/main/README.md)
 ## Data Science Project Regression Modeling : California Housing Price Prediction Overview <br>
