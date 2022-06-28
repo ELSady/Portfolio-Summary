@@ -38,6 +38,7 @@ Customer segmentation is the process by which we divide our customers up based o
 ## [#4 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/README.md)
 
 
+![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/971963.jpg)
 
 ## Project Highlight
 
