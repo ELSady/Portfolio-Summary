@@ -35,6 +35,31 @@ Supervised Machine Learning is nothing but learning a function that maps an inpu
  
 Customer segmentation is the process by which we divide our customers up based on common characteristics – such as demographics or behaviours, so you can market to those customers more effectively.These customer segmentation groups can also be used to begin discussions of building a marketing persona. Customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.The marketing “persona” is by definition a personification of a customer segment, and it is not uncommon for businesses to create several personas to match their different customer segments.But for that to happen, a business needs a robust set of customer segments off of which to base it. Which leads us to the next section, distinguishing the difference between customer segmentation and market segmentation, so that the segmentation is as accurate as possible.
 
+## [#4 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/README.md)
+
+
+
+## Project Highlight
+
+### Features / Columns Explanation
+* `Name`, as it suggest, it specifies the name of players. <br>
+* `Club`, specifies players current club in which they play for in the League.<br>
+* `Nationality`, specifies player's current football national they play at International level. <br>
+* `Position`, specifies role or responsibility at the team. <br>
+* `Age`, specifies the age of players. <br>
+* `Matches`, specifies player's total appereances or total fixtures they played during that campaign. <br>
+* `Starts`, specifies player's amount of fixtures when they were selected to play and feature in the Starting Line up (Starting X!). <br>
+* `Mins`, specifies player's total minutes played in the league during that campaign. <br>
+* `Goals`, specifies player's tota l amount of golas they scored. <br>
+* `Assists`, specifies player's total amount of assist / pass in which leads to goal. <br>
+* `Passes_Attempted`, specifies player's total amount of passes they attempted. <br>
+* `Perc_Passes_Completed`, specifies player's total amount of success passes, a pass where it did not get intercepted by the opposition player, in percentage. <br>
+* `Penalty_Goals`, specifies player's total amount of penalty which lead to goals. <br>
+* `Penalty_Attempted`, specifies player's total amount of penalty the attempted. <br>
+* `XG, or Expected Goals`, specifies the likelihood of a player to score a goal per 90 minutes basis (per one fixture), the higher the value means a player is very clinical in front of goal. <br>
+* `XA, or Expected Assist`, similar to XG, specifies the likelihood of a player to create an assist pass per 90 minutes basis, the higher the value means a player is very creative in making passes which lead to a goal. <br>
+* `Yellow_cards`, specifies player's total yellow cards tey got during the campaign. <br>
+* `Red_cards`, specifies player's total red cards they got during the campaign. <br>
 
 ## Extras
 ## [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
