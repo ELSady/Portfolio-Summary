@@ -1,6 +1,6 @@
 # Data Science Portfolio Summary
 
-## [Data Science Project 1 Regression Modeling : California Housing Price Prediction Overview](https://github.com/ELSady/Regression-California-Housing-Price-Prediction/blob/main/README.md)
+## [#1 Data Science Project Regression Modeling : California Housing Price Prediction Overview](https://github.com/ELSady/Regression-California-Housing-Price-Prediction/blob/main/README.md)
 ## Data Science Project Regression Modeling : California Housing Price Prediction Overview <br>
 * Build a machine learning regression model to estimate and predict housing price located in california region.
 * Engineered some feaures to better specify how many rooms, bedrooms per rooms, bedrooms per household and population per household.
@@ -13,7 +13,7 @@ Property valuation is an imprecise science. Individual appraisers and valuers br
 Let’s prototype this idea and train some ML models using data about a house’s features, costs and neighbourhood profile to predict its value. Our target variable the houses's  price is numerical, hence the ML task is regression. (For a categorical target, the task becomes classification.).
 We’ll use a dataset from california housing data which simulates a portfolio of 20.640 properties, there are 10 columns.
 
-## [Data Science Project 2 Classification : Telcom Churn Classification Overview](https://github.com/ELSady/Classification-Telcom-Churn-Modeling/blob/main/README.md)
+## [#2 Data Science Project Classification : Telcom Churn Classification Overview](https://github.com/ELSady/Classification-Telcom-Churn-Modeling/blob/main/README.md)
 * Build a machine learning model to predict and classify wether a certain Telcom customers would churn from internet / broadband services.
 * Telcom customer records data of over 7000 ID's / customers.
 * Feature engineered and transformation for dataset to better be read and be implemented to model.
@@ -26,7 +26,7 @@ Customer attrition (a.k.a customer churn) is one of the biggest expenditures of 
 
 Supervised Machine Learning is nothing but learning a function that maps an input to an output based on example input-output pairs. A supervised machine learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. Given that we have data on current and prior customer transactions in the telecom dataset, this is a standardized supervised classification problem that tries to predict a binary outcome (Y/N). <br>
 
-## [Data Science Project 3 Clustering : Airlines Customer Segmentation and Analysis Overview](https://github.com/ELSady/Clustering-Airflight-Customer-Segmentation-and-Analysis/blob/main/README.md)
+## [#3 Data Science Project Clustering : Airlines Customer Segmentation and Analysis Overview](https://github.com/ELSady/Clustering-Airflight-Customer-Segmentation-and-Analysis/blob/main/README.md)
 * Build an Unsupervised Model to cluster and help segment Airlines customers in which what cluster / categories they fall into.
 * Implementing K means algorithm as base clustering model with a various thresholds number of K / Cluster Number.
 * Using An Airlines data, we analyze differents characteristics, provides specialized services for each respective customer categories , and formulate Corresponding marketing strategy.
