@@ -37,7 +37,6 @@ Customer segmentation is the process by which we divide our customers up based o
 
 ## [#4 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/README.md)
 
-
 ![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/971963.jpg)
 
 ## Project Highlight
@@ -61,6 +60,19 @@ Customer segmentation is the process by which we divide our customers up based o
 * `XA, or Expected Assist`, similar to XG, specifies the likelihood of a player to create an assist pass per 90 minutes basis, the higher the value means a player is very creative in making passes which lead to a goal. <br>
 * `Yellow_cards`, specifies player's total yellow cards tey got during the campaign. <br>
 * `Red_cards`, specifies player's total red cards they got during the campaign. <br>
+
+
+## [#5 Data Science Project : Ecommerce Profit-Sales RFM Customer Clustering and Analysis Overview](https://github.com/ELSady/Online-Ecommerce-Profit-Sales-RFM-Customer-CLustering-and-Analysis/blob/main/README.md)
+* Dataset of one of Ecommerce sited in US with a customer's purchase history over the course year of 2015.
+* Analyse which products / categories's as well as product segment which provide the most inerms of profit and sales.
+* Analyze and filter out which countries / regions which satisfies the 80% of sales / profit.
+* Using Recency, Frequency and Monetary strategies to segment customers into certain groups based on the RFM scoring / metric.
+* Build unsupervised K means model to further improve / confirm customer segmentation.
+
+![alt text](https://github.com/ELSady/Online-Ecommerce-Profit-Sales-RFM-Customer-CLustering-and-Analysis/blob/main/413192.jpg) <br>
+
+RFM analysis is a data driven customer behavior segmentation technique. RFM stands for recency, frequency, and monetary value. The idea is to segment customers based on when their last purchase was, how often they’ve purchased in the past, and how much they’ve spent overall. All three of these measures have proven to be effective predictors of a customer's willingness to engage in marketing messages and offers. While RFM analysis was born in direct-mail, it is a powerful tool for eCommerce stores to use today. RFM analysis allows us to make sense of all the customer data our store captures as part of interactions with the brand and customer transactions from the store. <br>
+
 
 ## Extras
 ## [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
