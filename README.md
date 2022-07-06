@@ -76,4 +76,4 @@ RFM analysis is a data driven customer behavior segmentation technique. RFM stan
 
 ## Extras
 ## [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
-## [List of ALl My Python / Data Science Projects](https://github.com/ELSady/List-of-All-My-Python-Data-Science-Projects-/blob/main/README.md)
+## [List of All My Python / Data Science Projects](https://github.com/ELSady/List-of-All-My-Python-Data-Science-Projects-/blob/main/README.md)
