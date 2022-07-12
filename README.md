@@ -73,6 +73,16 @@ Customer segmentation is the process by which we divide our customers up based o
 
 RFM analysis is a data driven customer behavior segmentation technique. RFM stands for recency, frequency, and monetary value. The idea is to segment customers based on when their last purchase was, how often they’ve purchased in the past, and how much they’ve spent overall. All three of these measures have proven to be effective predictors of a customer's willingness to engage in marketing messages and offers. While RFM analysis was born in direct-mail, it is a powerful tool for eCommerce stores to use today. RFM analysis allows us to make sense of all the customer data our store captures as part of interactions with the brand and customer transactions from the store. <br>
 
+## [#6 Data Science Project: Marketing Campaign Analysis Overview](https://github.com/ELSady/Marketing-Campaign-Analysis/blob/main/README.md)
+* Dataset contains records of 2240 customers with their informations, their purchase / sales, and response for previous and the current campaign.
+* Handling plus Feature Engineering several features, the likes of customer registered date, Age, Total Spending and Purchase Frequency.
+* Visualize and Analyse customers's Relationship-Status, income Yearly and Education distribution, how each of these features correlates to total spending and response for current and prevous campaign.
+* Visualize and Analyse customers response over the 5 past campaign.
+* Build Supervised Machine learning Classification model, checking its feature importance and Shap value to determine which features contributes when it comes to predicting customer's response for the current campaign.
+
+![strategi-marketing-campaign](https://user-images.githubusercontent.com/96014656/178617542-ea98e1a0-9a32-43ff-8537-71cf8ccb0c37.jpg) <br>
+
+A marketing campaign is a comprehensive course of action to sell and promote something, either a product, service, or brand. In a marketing campaign, the team may have organized the promotion of goods through printed publications, radio, TV, billboards, banners, trade shows, conferences, online, and other kinds of media. Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms. Campaigns are not solely reliant on advertising and can include demonstrations, video conferencing, and other interactive techniques. Businesses operating in highly competitive markets and franchisees may initiate frequent marketing campaigns and devote significant resources to generating brand awareness and sales. 
 
 ## Extras
 ## [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
