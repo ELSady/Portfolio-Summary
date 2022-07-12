@@ -85,9 +85,9 @@ RFM analysis is a data driven customer behavior segmentation technique. RFM stan
 A marketing campaign is a comprehensive course of action to sell and promote something, either a product, service, or brand. In a marketing campaign, the team may have organized the promotion of goods through printed publications, radio, TV, billboards, banners, trade shows, conferences, online, and other kinds of media. Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms. Campaigns are not solely reliant on advertising and can include demonstrations, video conferencing, and other interactive techniques. Businesses operating in highly competitive markets and franchisees may initiate frequent marketing campaigns and devote significant resources to generating brand awareness and sales. 
 
 ## Upcoming / Ongoing Projects :
-* Image Editor using Python
-* Automated Youtube videos donloader using Python
+* ### Image Editor using Python
+* ### Automated Youtube videos donloader using Python
 
 ## Extras
-## [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
-## [List of All My Python / Data Science Projects](https://github.com/ELSady/List-of-All-My-Python-Data-Science-Projects-/blob/main/README.md)
+### [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
+### [List of All My Python / Data Science Projects](https://github.com/ELSady/List-of-All-My-Python-Data-Science-Projects-/blob/main/README.md)
