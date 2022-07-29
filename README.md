@@ -35,34 +35,7 @@ Supervised Machine Learning is nothing but learning a function that maps an inpu
  
 Customer segmentation is the process by which we divide our customers up based on common characteristics – such as demographics or behaviours, so you can market to those customers more effectively.These customer segmentation groups can also be used to begin discussions of building a marketing persona. Customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.The marketing “persona” is by definition a personification of a customer segment, and it is not uncommon for businesses to create several personas to match their different customer segments.But for that to happen, a business needs a robust set of customer segments off of which to base it. Which leads us to the next section, distinguishing the difference between customer segmentation and market segmentation, so that the segmentation is as accurate as possible.
 
-## [#4 Data Visualization Project: Premier League 20/21 Exploratory Data Overview](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/README.md)
-
-![alt text](https://github.com/ELSady/Premier-League-20-21-Exploratory-Data-/blob/main/971963.jpg)
-
-## Project Highlight
-
-### Features / Columns Explanation
-* `Name`, as it suggest, it specifies the name of players. <br>
-* `Club`, specifies players current club in which they play for in the League.<br>
-* `Nationality`, specifies player's current football national they play at International level. <br>
-* `Position`, specifies role or responsibility at the team. <br>
-* `Age`, specifies the age of players. <br>
-* `Matches`, specifies player's total appereances or total fixtures they played during that campaign. <br>
-* `Starts`, specifies player's amount of fixtures when they were selected to play and feature in the Starting Line up (Starting X!). <br>
-* `Mins`, specifies player's total minutes played in the league during that campaign. <br>
-* `Goals`, specifies player's tota l amount of golas they scored. <br>
-* `Assists`, specifies player's total amount of assist / pass in which leads to goal. <br>
-* `Passes_Attempted`, specifies player's total amount of passes they attempted. <br>
-* `Perc_Passes_Completed`, specifies player's total amount of success passes, a pass where it did not get intercepted by the opposition player, in percentage. <br>
-* `Penalty_Goals`, specifies player's total amount of penalty which lead to goals. <br>
-* `Penalty_Attempted`, specifies player's total amount of penalty the attempted. <br>
-* `XG, or Expected Goals`, specifies the likelihood of a player to score a goal per 90 minutes basis (per one fixture), the higher the value means a player is very clinical in front of goal. <br>
-* `XA, or Expected Assist`, similar to XG, specifies the likelihood of a player to create an assist pass per 90 minutes basis, the higher the value means a player is very creative in making passes which lead to a goal. <br>
-* `Yellow_cards`, specifies player's total yellow cards tey got during the campaign. <br>
-* `Red_cards`, specifies player's total red cards they got during the campaign. <br>
-
-
-## [#5 Data Science Project : Ecommerce Profit-Sales RFM Customer Clustering and Analysis Overview](https://github.com/ELSady/Online-Ecommerce-Profit-Sales-RFM-Customer-CLustering-and-Analysis/blob/main/README.md)
+## [#4 Data Science Project : Ecommerce Profit-Sales RFM Customer Clustering and Analysis Overview](https://github.com/ELSady/Online-Ecommerce-Profit-Sales-RFM-Customer-CLustering-and-Analysis/blob/main/README.md)
 * Dataset of one of Ecommerce sited in US with a customer's purchase history over the course year of 2015.
 * Analyse which products / categories's as well as product segment which provide the most inerms of profit and sales.
 * Analyze and filter out which countries / regions which satisfies the 80% of sales / profit.
@@ -73,7 +46,7 @@ Customer segmentation is the process by which we divide our customers up based o
 
 RFM analysis is a data driven customer behavior segmentation technique. RFM stands for recency, frequency, and monetary value. The idea is to segment customers based on when their last purchase was, how often they’ve purchased in the past, and how much they’ve spent overall. All three of these measures have proven to be effective predictors of a customer's willingness to engage in marketing messages and offers. While RFM analysis was born in direct-mail, it is a powerful tool for eCommerce stores to use today. RFM analysis allows us to make sense of all the customer data our store captures as part of interactions with the brand and customer transactions from the store. <br>
 
-## [#6 Data Science Project: Marketing Campaign Analysis Overview](https://github.com/ELSady/Marketing-Campaign-Analysis/blob/main/README.md)
+## [#5 Data Science Project: Marketing Campaign Analysis Overview](https://github.com/ELSady/Marketing-Campaign-Analysis/blob/main/README.md)
 * Dataset contains records of 2240 customers with their informations, their purchase / sales, and response for previous and the current campaign.
 * Handling plus Feature Engineering several features, the likes of customer registered date, Age, Total Spending and Purchase Frequency.
 * Visualize and Analyse customers's Relationship-Status, income Yearly and Education distribution, how each of these features correlates to total spending and response for current and prevous campaign.
@@ -84,7 +57,7 @@ RFM analysis is a data driven customer behavior segmentation technique. RFM stan
 
 A marketing campaign is a comprehensive course of action to sell and promote something, either a product, service, or brand. In a marketing campaign, the team may have organized the promotion of goods through printed publications, radio, TV, billboards, banners, trade shows, conferences, online, and other kinds of media. Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms. Campaigns are not solely reliant on advertising and can include demonstrations, video conferencing, and other interactive techniques. Businesses operating in highly competitive markets and franchisees may initiate frequent marketing campaigns and devote significant resources to generating brand awareness and sales. 
 
-## [#7 Data Science Project: Credit Risk Analysis Overview](https://github.com/ELSady/Classification---Credit-Risk-Analysis/blob/main/README.md)
+## [#6 Data Science Project: Credit Risk Analysis Overview](https://github.com/ELSady/Classification---Credit-Risk-Analysis/blob/main/README.md)
 * Dataset consists of 32581 customer's credit history from The Bank on top of their current credit loan status.
 * Visualize each customers's Loan Amount, Grade, Intent, Interest Rate and Income Perentage.
 * Visualize and analyze those above features and how they fare based on customer's Age, Income yearly, Home Ownership and Loan Status.
@@ -96,7 +69,7 @@ A marketing campaign is a comprehensive course of action to sell and promote som
 Financial institutions used credit risk analysis models to determine the probability of default of a potential borrower. The models provide information on the level of a borrower’s credit risk at any particular time. If the lender fails to detect the credit risk in advance, it exposes them to the risk of default and loss of funds. Lenders rely on the validation provided by credit risk analysis models to make key lending decisions on whether or not to extend credit to the borrower and the credit to be charged. With the continuous evolution of technology, banks are continually researching and developing effective ways of modeling credit risk. A growing number of financial institutions are investing in new technologies and human resources to make it possible to create credit risk models using machine learning languages.
 
 ## Upcoming / Ongoing Projects :
-### Bank Transaction Analysis 
+### Hotel Bookings Analysis / Order Predicitions
 
 ## Extras
 ### [My Tableau Dashboard / Visualization](https://public.tableau.com/app/profile/isnan.el.sady)
